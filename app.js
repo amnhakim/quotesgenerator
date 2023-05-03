@@ -33,6 +33,11 @@ const quotes = [
     quote: "“Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together.”",
     person: "Diane McLaren",
   },
+  {
+    quote: "“When you giveup remember, Aiman is always by your side. Meow Meow Meow Meow”",
+    person: "Dr. Aiman Arash",
+  },
+  
 ];
 
 console.log(quotes.length);
